@@ -16,16 +16,19 @@ The project simulates tasks that may be encountered in a help desk or IT support
 
 ## 3. Troubleshooting Guides
 
-The following guides will be developed as part of this project:
+The following troubleshooting guide has been completed:
 
-- [ ] Slow computer performance
-- [ ] Internet connectivity problems
-- [ ] Printer problems
-- [ ] Software installation issues
+Slow computer performance: Documents a structured process for investigating slow performance, recording Task Manager observations, and evaluating the results of troubleshooting steps.
+
+The guide is available in troubleshooting-guides/slow-computer.md.
+
+Additional guides for internet connectivity, printer problems, and software installation issues may be added in future updates.
 
 ## 4. Help Desk Ticket Examples
 
-Sample support tickets will be created to demonstrate how technical issues can be recorded, investigated, resolved, and documented.
+A sample help desk ticket is included to demonstrate how a technical issue can be recorded, investigated, and documented.
+
+Ticket 001: Documents a slow computer performance issue, observed system resource usage, troubleshooting actions, and recorded outcomes.
 
 ## 5. Troubleshooting Workflow
 
@@ -49,7 +52,11 @@ See [Troubleshooting Process](workflows/troubleshooting-process.md) for the full
 
 ## 7. Project Status
 
-In progress — troubleshooting guides, ticket examples, and workflow documentation are being developed.
+Status: Core project completed.
+
+The project includes a slow computer troubleshooting guide, a sample help desk ticket, and a documented troubleshooting workflow.
+
+The current documentation provides a practical demonstration of structured troubleshooting and technical reporting. Additional guides and ticket examples may be added in future updates.
 
 ## 8. Disclaimer
 
